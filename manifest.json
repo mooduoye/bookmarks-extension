@@ -1,0 +1,13 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"Peg",
+    "description":"A Resource Identifier that is stored for later retrieval.",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
